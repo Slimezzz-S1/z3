@@ -1,0 +1,24 @@
+{
+    "prisma.hidePrisma6Prompts": true,
+    "editor.indentSize": 4,
+    
+    "WillLuke.nextjs.addTypesOnSave": true,
+    "WillLuke.nextjs.hasPrompted": true,
+
+    "files.associations": {
+        "*.css" : "tailwindcss"
+    },
+
+    "files.exclude": {
+        "**/.git": true,
+    },
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/.dart_tool": true,
+        "**/.widget_preview": true,
+        "**/generated/" : true
+    }
+}
